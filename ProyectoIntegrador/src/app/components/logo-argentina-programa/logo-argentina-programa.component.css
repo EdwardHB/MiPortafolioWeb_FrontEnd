@@ -1,3 +1,39 @@
+.container{
+   justify-content: space-between;
+   align-items: center;
+   display: flex; 
+}
+.RedesSociales{
+    color: white;
+    margin-right: 0.5em;
+}
+
 #Lap{
     width: 160px;
 }
+img{
+    width: 30px;
+}
+.btn{
+    border-width: medium;
+}
+
+/*--- pantalla chicas ---*/
+@media(max-width: 575px){
+    .container{
+        flex-direction: column;
+     }
+     .RedesSociales{
+        color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .RedesSociales img{
+        margin: 0.2em;
+    }
+}
+
+
+
+
