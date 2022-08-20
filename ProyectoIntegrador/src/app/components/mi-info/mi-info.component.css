@@ -1,8 +1,8 @@
 .row{
     padding: 10px;
+    background-image: url(../../../assets/imagenes/fondo.png);
 }
 div{
-    background-color:black;
     text-align: center;
     color:white;
 }
@@ -14,18 +14,18 @@ div{
         border-radius: 100%;
         box-shadow: 4px 4px 4px blue;
         left: 2%;
-        top: 600px;
+        top: 800px;
     }
 }
 
 @media(max-width: 575px){
     #imagenDePerfil{
         position: absolute;
-        width: 15%;
+        width: 32%;
         border-radius: 100%;
         box-shadow: 4px 4px 4px blue;
-        left: 2%;
-        top: 950px;
+        left: 33%;
+        top: 1093px;
     }
 }
 

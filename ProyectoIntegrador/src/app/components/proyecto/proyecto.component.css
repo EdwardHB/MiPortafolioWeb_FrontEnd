@@ -1,7 +1,8 @@
 .row{
     padding: 20px;
-    background-color: black;
     color: white;
+    box-shadow: 2px -2px 5px gray;
+    background-image: url(../../../assets/imagenes/fondo.png);
 }
 .contenedor{
     width: auto;

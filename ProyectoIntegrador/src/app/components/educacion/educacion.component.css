@@ -1,10 +1,10 @@
 .row{
     padding: 25px;
+    background-image: url(../../../assets/imagenes/fondo.png);
 }
 div{
-    background: black;
     color: white;
 }
-h1,h3{
+h1,h3,h2{
     display: inline;
 }
