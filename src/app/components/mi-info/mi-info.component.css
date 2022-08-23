@@ -1,6 +1,7 @@
 .row{
     padding: 10px;
-    background-image: url(../../../assets/imagenes/fondo.png);
+    background-color: #0C0D27;
+    /*background-image: url(../../../assets/imagenes/fondo.png);*/
 }
 div{
     text-align: center;

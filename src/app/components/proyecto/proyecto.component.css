@@ -1,8 +1,8 @@
 .row{
     padding: 20px;
     color: white;
-    box-shadow: 1px -1px 3px gray;
-    background-image: url(../../../assets/imagenes/fondo.png);
+    background-color: #111339;
+    /*background-image: url(../../../assets/imagenes/fondo.png);*/
 }
 .contenedor{
     width: auto;

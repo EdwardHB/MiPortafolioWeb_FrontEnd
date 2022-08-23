@@ -1,7 +1,6 @@
 .row{
     background: black;
     padding: 25px;
-    box-shadow: 1px -1px 3px gray;
     background-image: url(../../../assets/imagenes/fondo.png);
 }
 div{
